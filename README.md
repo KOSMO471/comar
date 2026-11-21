@@ -29,7 +29,39 @@
 
 ### 🚀 Hızlı Başlangıç
 Ek bir kütüphane yüklemenize gerek yoktur. Sisteminizde **Python 3**'ün kurulu olması yeterlidir:
+
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/comar.git](https://github.com/KULLANICI_ADINIZ/comar.git)
+git clone https://github.com/KULLANICI_ADINIZ/comar.git
 cd comar
 python Comar.py
+```
+*(Linux ve macOS'te tam yetki için `sudo python3 Comar.py` önerilir.)*
+
+---
+
+## 🇬🇧 English
+
+**Comar** is an open-source cross-platform system maintenance tool for Windows, macOS, and Linux that cleans junk files, repairs system integrity, and can be **remotely controlled** via a web interface with loyalty.
+
+### ✨ Key Features
+- 🖥️ **Cross-Platform:** Automatically detects Windows, macOS, and Linux and runs appropriate commands.
+- 🧹 **Smart Cleanup:** Cleans temporary files (`TEMP`/`Cache`), browser caches, and DNS records.
+- 🌐 **Remote Web Control:** Can be managed remotely via GitHub Pages using a local server and a one-time security code (OTP).
+- 📦 **Batch Updates:** Keeps your apps updated via package managers (`winget`, `brew`, `apt`).
+- 🌓 **Dark / Light Theme:** Eye-friendly modern UI design with dark mode support.
+
+### 🚀 Quick Start
+No extra libraries required. Make sure you have **Python 3** installed:
+
+```bash
+git clone https://github.com/KULLANICI_ADINIZ/comar.git
+cd comar
+python Comar.py
+```
+*(On Linux and macOS, `sudo python3 Comar.py` is recommended for full privileges.)*
+
+---
+
+## 📄 Lisans / License
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.  
+This project is licensed under the **MIT License**.
