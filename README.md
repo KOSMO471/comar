@@ -3,12 +3,14 @@
 # 🐕 Çomar (Comar)
 ### Akıllı Sistem Bakım Asistanı / Smart System Maintenance Assistant
 
+
 [![GitHub license](https://img.shields.io/github/license/KULLANICI_ADINIZ/comar?style=flat-square)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat-square)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)]()
 
 *Bilgisayarınızın sadık dostu Çomar ile sisteminiz hep güvende!*  
 *Keep your system safe with your loyal companion, Comar!*
+*Bu yazılım olduğu gibi sunulur; yanlış kullanım, sistem dosyası silme veya beklenmeyen hatalar sonucu oluşabilecek veri kaybı veya sistem arızalarından geliştirici sorumlu tutulamaz. Kullanıcı tüm sorumluluğu üstlenmiş sayılır.*
 
 [🇹🇷 Türkçe Bölüm](#-türkçe) | [🇬🇧 English Section](#-english)
 
